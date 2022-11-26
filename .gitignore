@@ -1,0 +1,8 @@
+/logs
+/node_modules
+package-lock.json
+/migrate/data
+/migrate/data_mongo
+listTokenDiscoverd.json
+/test
+/security
